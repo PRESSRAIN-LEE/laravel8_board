@@ -37,9 +37,11 @@ Thank you for considering contributing to the Laravel framework! The contributio
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
 
-`[참고 동영상]:` (https://www.youtube.com/watch?v=TBDEEsXgDxc&list=PLDW68yr8aAbb65OBEzX0VcXb6En5NhhM8&index=3)
 
-# 라라벨 설치 순서
+# 참고 동영상
+[참고동영상1. ](https://www.youtube.com/watch?v=TBDEEsXgDxc&list=PLDW68yr8aAbb65OBEzX0VcXb6En5NhhM8&index=3)
+
+## 라라벨 설치 순서
 `1. 라라벨 설치 순서`
 - `1.1.` composer 설치
 - `1.1.1.` composer #버전 확인: composer
@@ -77,7 +79,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 
 
-# 개발 완료
+### 개발 완료
 `1. 사용자단`
 - `1.` 목록(계층형-답변형) (계속 updagrade 예정)
 - `2.` 글 상세 보기
@@ -94,7 +96,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 `2. 관리자단`
 
 
-## 개발 진행 & 개발 예정
+#### 개발 진행 & 개발 예정
 `1. 사용자 기능`
 - 회원가입(아이디 중복 체크)
 - 정보수정
@@ -128,7 +130,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 
 
-# 진행 상황
+##### 진행 상황
 `1 개발 완료`
 `1.` 
 
@@ -152,3 +154,4 @@ In order to ensure that the Laravel community is welcoming to all, please review
 `3` 관리자 기능
 
 `4` 공통 기능
+

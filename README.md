@@ -67,40 +67,40 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 참고 동영상: https://www.youtube.com/watch?v=TBDEEsXgDxc&list=PLDW68yr8aAbb65OBEzX0VcXb6En5NhhM8&index=3
 
 # 라라벨 성치 순서
-1. 라라벨 설치 순서
-1.1. composer 설치
-1.1.1. composer 버전 확인: composer
+`1. 라라벨 설치 순서`
+`1.1.` composer 설치
+`1.1.1.` composer 버전 확인: composer
 
-1.2. php 설치 - xampp
-1.2.1. php 버전확인: php -v
+`1.2.` php 설치 - xampp
+`1.2.1.` php 버전확인: php -v
 
-1.3. 라라벨 설치
-1.3.1. 설치하려는 디렉토리로 이동
-1.3.2. composer create-project --prefer-dist laravel/laravel "버전" 프로젝트명(폴더명)
-1.3.3. 예) composer create-project --prefer-dist laravel/laravel laravel8_board "버전"
+`1.3.` 라라벨 설치
+`1.3.1.` 설치하려는 디렉토리로 이동
+`1.3.2.` composer create-project --prefer-dist laravel/laravel "버전" 프로젝트명(폴더명)
+`1.3.3.` 예) composer create-project --prefer-dist laravel/laravel laravel8_board "버전"
 
-1.4. 서버 실행
-1.4.1. php artisan serve
+`1.4.` 서버 실행
+`1.4.1.` php artisan serve
 
-2. 라라벨 설치 후
-2.1. .env파일 설정 변경
+`2. 라라벨 설치 후`
+`2.1.` .env파일 설정 변경
 
-3. migration
-3.1. 테이블 생성: php artisan make:migration create_boards_table --create=boards ==> /database/migrations/YYYY_MM_DD_xxxxxx_create_boards_table.php 파일이 생성됨
-3.2. 위에서 생성된 파일을 열어 테이블 생성에 필요한 내용 수정 후 저장
-3.3. migration실행
-3.3.1. php artisan migrate
+`3. migration`
+`3.1.` 테이블 생성: php artisan make:migration create_boards_table --create=boards ==> /database/migrations/YYYY_MM_DD_xxxxxx_create_boards_table.php 파일이 생성됨
+`3.2.` 위에서 생성된 파일을 열어 테이블 생성에 필요한 내용 수정 후 저장
+`3.3.` migration실행
+`3.3.1.` php artisan migrate
 
-4. controller 
-4.1. php artisan make:controller BoardsController --resource	//(resource생성) 또는 
-4.2. php artisan make:controller BoardsController --resource --model=Board	//(resource, model동시 생성)
-4.3. app\Http\Controllers\BoardsController.php 파일 생성
-4.4. app\Models\Board.php 파일 생성
+`4. controller` 
+`4.1.` php artisan make:controller BoardsController --resource	//(resource생성) 또는 
+`4.2.` php artisan make:controller BoardsController --resource --model=Board	//(resource, model동시 생성)
+`4.3.` app\Http\Controllers\BoardsController.php 파일 생성
+`4.4.` app\Models\Board.php 파일 생성
 
-5. 라우터 설정(routes)
-5.1. routes\web.php 파일
+`5. 라우터 설정(routes)`
+`5.1.` routes\web.php 파일
 
-6. 
+`6. `
 
 
 

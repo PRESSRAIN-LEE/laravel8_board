@@ -64,9 +64,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-참고 동영상: https://www.youtube.com/watch?v=TBDEEsXgDxc&list=PLDW68yr8aAbb65OBEzX0VcXb6En5NhhM8&index=3
+`참고 동영상:` https://www.youtube.com/watch?v=TBDEEsXgDxc&list=PLDW68yr8aAbb65OBEzX0VcXb6En5NhhM8&index=3
 
-# 라라벨 성치 순서
+# 라라벨 설치 순서
 `1. 라라벨 설치 순서`
 `1.1.` composer 설치
 `1.1.1.` composer 버전 확인: composer

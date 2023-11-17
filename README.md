@@ -68,11 +68,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # 라라벨 설치 순서
 `1. 라라벨 설치 순서`
-`1.1.` composer 설치
-`1.1.1.` composer 버전 확인: composer
+`- 1.1.` composer 설치
+`- 1.1.1.` composer 버전 확인: composer
 
-`1.2.` php 설치 - xampp
-`1.2.1.` php 버전확인: php -v
+`- 1.2.` php 설치 - xampp
+`- 1.2.1.` php 버전확인: php -v
 
 `1.3.` 라라벨 설치
 `1.3.1.` 설치하려는 디렉토리로 이동
